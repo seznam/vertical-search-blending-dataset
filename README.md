@@ -1,7 +1,10 @@
 Vertical Search Blending Dataset
 ================================
 
-A small sample of 25000 records from the full dataset is available in [sample.tsv](./sample.tsv). The full dataset contains 84172160 records.
+A small sample of 25000 records from the full dataset is available in [sample.tsv](./sample.tsv). The full dataset contains 84172160 records and can be downloaded in three parts:
+* [Part 0](https://github.com/seznam/vertical-search-blending-dataset/releases/latest/download/part0.tar.gz) (1.3 GB)
+* [Part 1](https://github.com/seznam/vertical-search-blending-dataset/releases/latest/download/part1.tar.gz) (1.5 GB)
+* [Part 2](https://github.com/seznam/vertical-search-blending-dataset/releases/latest/download/part2.tar.gz) (1.7 GB)
 
 The data are in tab separated values format with columns defined in [header.tsv](./header.tsv).
 
