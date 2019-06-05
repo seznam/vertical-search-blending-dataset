@@ -1,0 +1,3 @@
+numpy>=1.14.3
+./python/
+-e git+https://github.com/seznam/flexp@fc6b01999487967389d303034c97db2036d2c513#egg=flexp
