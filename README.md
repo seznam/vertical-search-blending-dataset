@@ -1,7 +1,7 @@
 Vertical Search Blending Dataset
 ================================
 
-A vertical search blending dataset gathered by Seznam.cz search engine and published as a SIGIR 2019 [paper](https://dl.acm.org/citation.cfm?doid=3331184.3331345).
+A vertical search blending dataset gathered by Seznam.cz search engine and published as a SIGIR 2019 [paper](https://dl.acm.org/citation.cfm?doid=3331184.3331345) ([pdf](https://dl.acm.org/authorize?N688998)).
 
 A small sample of 25000 records from the full dataset is available in [sample.tsv](./sample.tsv). The full dataset contains 84172160 records and can be downloaded in three parts:
 * [Part 0](https://github.com/seznam/vertical-search-blending-dataset/releases/latest/download/part0.tar.gz) (1.3 GB)
